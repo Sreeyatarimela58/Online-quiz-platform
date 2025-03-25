@@ -1,4 +1,4 @@
-**ONLINE QUIZ PLATFORM **
+#ONLINE QUIZ PLATFORM 
 
 1. Responsive Layout
    Mobile-friendly design using Bootstrap's grid system (container, row, col)
