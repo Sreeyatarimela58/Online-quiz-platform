@@ -1,3 +1,5 @@
+**ONLINE QUIZ PLATFORM **
+
 1. Responsive Layout
    Mobile-friendly design using Bootstrap's grid system (container, row, col)
    Centered card-based UI for questions/results (d-flex, justify-content-center, align-items-      center)
